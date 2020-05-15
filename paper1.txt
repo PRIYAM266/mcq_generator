@@ -1,0 +1,36 @@
+1. what is the fullform of DATA ?
+     1. Quantum Resis...   2.Counterparty   3.Streamr DATAcoin
+2. what is the fullform of ATM ?
+     1. MaidSafeCoin   2.ATMChain   3.Power Ledger
+3. what is the fullform of TEL ?
+     1. FairCoin   2.LAToken   3.Telcoin
+4. what is the fullform of EMC ?
+     1. BitClave   2.Pepe Cash   3.Emercoin
+5. what is the fullform of EDG ?
+     1. Raiden Networ...   2.Request Network   3.Edgeless
+6. what is the fullform of UKG ?
+     1. SwftCoin   2.ICON   3.Unikoin Gold
+7. what is the shortform of Byteball Bytes ?
+     1. GBYTE   2.SNT   3.DGB
+8. what is the shortform of Lamden ?
+     1. TAU   2.THETA   3.DPY
+9. what is the shortform of Wings ?
+     1. ZEC   2.WINGS   3.FTC
+10. what is the shortform of MobileGo ?
+     1. TRAC   2.WAVES   3.MGO
+11. what is the shortform of Byteball Bytes ?
+     1. QRL   2.TRX   3.GBYTE
+12. what is the shortform of ETHLend ?
+     1. LEND   2.SKY   3.VTC
+13. what is the price of 0x ?
+    1.107391705.282  2.33424385.6138  3.592685118.08
+14. what is the price of Oyster ?
+    1.213564442.379  2.177426000.0  3.71788524.6865
+15. what is the price of Komodo ?
+    1.291482177.049  2.292134645.413  3.479490819.487
+16. what is the price of Bread ?
+    1.55107875.5621  2.57115398.0  3.53242523.2016
+17. what is the price of Selfkey ?
+    1.33992422.8918  2.68149084.4888  3.33037582.8219
+18. what is the price of Lunyr ?
+     1. 43087272.8609   2.58412274.0965   3.11637287829.8
